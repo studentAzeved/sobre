@@ -11,3 +11,13 @@
    <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div><br>
+
+
+<div>
+  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.instagram.com/onrracoutinho"><i>Gabriel José</i></a> 😃️</h1>
+  <p align="center">Estudo Desenvolvimento Web, applicações em celulares entre outros />
+  <a align="rigth"  href="#1" target="_blank">
+    <img width="10%" align="center" valign="middle" src="# " target="_blank" />
+  </a><br>
+  <p align="center">Perfil meio parado porque estou começando a usar mais github por agora, mas agora irei está sempre postando novidades! 😉️</h2>
+</div>
